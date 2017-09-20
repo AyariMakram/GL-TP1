@@ -1,3 +1,3 @@
 #!/bin/bash
-echo Makram Sturgis
+echo sale pute
 
